@@ -4,9 +4,7 @@
 
 ## Apps Covered by These Terms
 
-These Terms of Service apply to all mobile applications published by David Artemov, including:
-- Tax Calc 2025
-- _(All future apps published under the Artemov brand)_
+These Terms of Service apply to all mobile applications published by AppWrite Factory.
 
 ## Agreement to Terms
 

@@ -4,9 +4,7 @@
 
 ## Apps Covered by This Policy
 
-This Privacy Policy applies to all mobile applications published by David Artemov, including:
-- Tax Calc 2025
-- _(All future apps published under the Artemov brand)_
+This Privacy Policy applies to all mobile applications published by AppWrite Factory.
 
 All apps share the same privacy practices as described below.
 
