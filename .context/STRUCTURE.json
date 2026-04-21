@@ -1,0 +1,135 @@
+{
+  "schema": 1,
+  "lastUpdated": "2026-04-21T12:21:35Z",
+  "projectType": [],
+  "fileCount": 21,
+  "directories": {
+    ".codesight": ".codesight (under project root)",
+    ".github": ".github (under project root)",
+    ".github/workflows": "Workflows (under .github)",
+    "docs/tasks": "Tasks (under docs)",
+    "scripts": "Utility and build scripts",
+    "tests/scripts": "Utility and build scripts"
+  },
+  "intentIndex": {
+    "adopt": [
+      "scripts/adopt-task-tracking.sh"
+    ],
+    "cache": [
+      "scripts/reconcile-task-cache.sh",
+      "scripts/refresh-task-cache.sh"
+    ],
+    "checkboxes": [
+      "scripts/migrate-checkboxes-to-issues.py"
+    ],
+    "codesight": [
+      ".codesight/CODESIGHT.md"
+    ],
+    "commit": [
+      "scripts/commit-msg-hook",
+      "scripts/install-commit-msg-hook.sh",
+      "scripts/validate-commit-trailer.sh"
+    ],
+    "config": [
+      ".github/task-tracking-config.json"
+    ],
+    "docs": [
+      "docs/tasks/README.md"
+    ],
+    "file": [
+      "scripts/validate-narrative-file.sh"
+    ],
+    "github": [
+      ".github/task-tracking-config.json",
+      ".github/workflows/task-reconciliation.yml"
+    ],
+    "hook": [
+      "scripts/commit-msg-hook",
+      "scripts/install-commit-msg-hook.sh"
+    ],
+    "html": [
+      "index.html",
+      "privacy.html",
+      "terms.html"
+    ],
+    "install": [
+      "scripts/install-commit-msg-hook.sh"
+    ],
+    "issues": [
+      "scripts/migrate-checkboxes-to-issues.py"
+    ],
+    "labels": [
+      "scripts/seed-task-labels.sh"
+    ],
+    "migrate": [
+      "scripts/migrate-checkboxes-to-issues.py"
+    ],
+    "msg": [
+      "scripts/commit-msg-hook",
+      "scripts/install-commit-msg-hook.sh"
+    ],
+    "narrative": [
+      "scripts/validate-narrative-file.sh"
+    ],
+    "privacy": [
+      "privacy.html",
+      "privacy.md"
+    ],
+    "readme": [
+      "README.md",
+      "docs/tasks/README.md"
+    ],
+    "reconcile": [
+      "scripts/reconcile-task-cache.sh"
+    ],
+    "reconciliation": [
+      ".github/workflows/task-reconciliation.yml"
+    ],
+    "refresh": [
+      "scripts/refresh-task-cache.sh"
+    ],
+    "scripts": [
+      "scripts/adopt-task-tracking.sh",
+      "scripts/commit-msg-hook",
+      "scripts/install-commit-msg-hook.sh",
+      "scripts/migrate-checkboxes-to-issues.py",
+      "scripts/reconcile-task-cache.sh",
+      "scripts/refresh-task-cache.sh",
+      "scripts/seed-task-labels.sh",
+      "scripts/validate-commit-trailer.sh",
+      "scripts/validate-narrative-file.sh"
+    ],
+    "seed": [
+      "scripts/seed-task-labels.sh"
+    ],
+    "task": [
+      ".github/task-tracking-config.json",
+      ".github/workflows/task-reconciliation.yml",
+      "scripts/adopt-task-tracking.sh",
+      "scripts/reconcile-task-cache.sh",
+      "scripts/refresh-task-cache.sh",
+      "scripts/seed-task-labels.sh"
+    ],
+    "tasks": [
+      "docs/tasks/README.md"
+    ],
+    "terms": [
+      "terms.html",
+      "terms.md"
+    ],
+    "tracking": [
+      ".github/task-tracking-config.json",
+      "scripts/adopt-task-tracking.sh"
+    ],
+    "trailer": [
+      "scripts/validate-commit-trailer.sh"
+    ],
+    "validate": [
+      "scripts/validate-commit-trailer.sh",
+      "scripts/validate-narrative-file.sh"
+    ],
+    "workflows": [
+      ".github/workflows/task-reconciliation.yml"
+    ]
+  }
+}
